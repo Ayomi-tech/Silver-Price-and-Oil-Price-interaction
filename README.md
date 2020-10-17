@@ -4,7 +4,7 @@
 ### Silver Price and Oil Price interaction
 
 ## Team Members:
-### Ayo, Shola, and Behrooz
+### Ayodeji, Shola, and Behrooz
 ## Date:
 ### 17.10.2020
 
@@ -13,10 +13,10 @@
 ### This project analyses the interaction between the silver price and crude oil price on a daily basis. we have taken the prices from international databases where daily data is available.
 
 ## Project Question:
-### Is there any relationship between oil and silver price during the past 12 years.
+### We are interested to know if there is any relationship between oil and silver price during the past 12 years.
 
 # Data Set:
-### data set contains two variables and a column for Date.
+### data set contains two variables and a column for Date, so in total 3 columns.
 
 ## Organisation of the project:
-### all three of us worked almost equally on the project. Everyone was responsible to do scraping, data cleaning, and visualisation and push the changes to the repo.
+### all three of us worked almost equally on the project. Everyone was responsible to do scraping, data cleaning, and visualisation and push the changes to the repo. During the class time , we met and discussed the changes and resolved the conflicts we had with the git.
