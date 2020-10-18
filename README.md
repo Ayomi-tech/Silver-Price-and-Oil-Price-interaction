@@ -9,8 +9,8 @@
 ### 17.10.2020
 
 ## Data Source: 
-[First source](https://www.thebalance.com/oil-price-history-3306200)
-
+[First web](https://www.thebalance.com/oil-price-history-3306200)
+[Second web](https://www.eia.gov/dnav/pet/hist/rwtcD.htm)
 ## Project Description:
 
 ### This project analyses the interaction between the silver price and crude oil price on a daily basis. we have taken the prices from international databases where daily data is available.
