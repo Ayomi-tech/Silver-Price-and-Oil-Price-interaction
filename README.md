@@ -8,6 +8,8 @@
 ## Date:
 ### 17.10.2020
 
+## Data Source: (like https://www.thebalance.com/oil-price-history-3306200)
+
 ## Project Description:
 
 ### This project analyses the interaction between the silver price and crude oil price on a daily basis. we have taken the prices from international databases where daily data is available.
