@@ -8,7 +8,7 @@
 ## Date:
 ### 17.10.2020
 
-## Data Source: 
+## Data Sources: 
 [First web](https://www.thebalance.com/oil-price-history-3306200)
 
 [Second web](https://www.eia.gov/dnav/pet/hist/rwtcD.htm)
